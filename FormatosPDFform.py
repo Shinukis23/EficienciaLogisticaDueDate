@@ -1,3 +1,7 @@
+# Script para llenado de formatos PDF 3520 y NTHSA para exportacion de mercancia
+# La informacion necesaria para llenar los formatos se obtienen al leer la factura en Excel
+# Julio 25/ 2023
+
 import pandas as pd
 from datetime import datetime
 #from PyPDF4 import PdfFileWriter, PdfFileReader
